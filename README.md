@@ -1,6 +1,6 @@
 I have tried to make example given in document: http://golang.org/doc/talks/io2011/Writing_Web_Apps_in_Go.pdf with a current version of Go (at this time 1.0.2).
 
-While following the document, I have encountered several obstacles in attempt to make example working. It took me some time figuring out what changes are needed to make examples working. These examples are working on OSX installation. Would like to learn if they are working on lin/win too. Examples published here could be useful for someone  exploring Go language and attempting to write standalone web server in Go. I have not found much examples around.
+While following the document, I have encountered several obstacles in attempt to make examples working. It took me some time figuring out what changes are needed to make examples working. These examples are working on OSX installation. Would like to learn if they are working on lin/win too. Examples published here could be useful for someone  exploring Go language and attempting to write standalone web server in Go. I have not found much examples around.
 
 Files:
 
