@@ -21,7 +21,9 @@ or
 
 (note that file upload example assumes uploading an image file jpeg, png, gif - whatever your browser will recognize as "image" mime)
 
-when server is running: point your browser to http://localhost:8080
+when server is running, point your browser to:
+
+    http://localhost:8080
 
 you may also compile examples to standalone executable:
 
@@ -33,7 +35,9 @@ you may also compile examples to standalone executable:
 on mac/unix you'd execute it as:
 
     ./ws
+
 or
+
     ./ws_u
 
 I assume that on windows 'go build ws.go' would create ws.exe and ws_u.exe
