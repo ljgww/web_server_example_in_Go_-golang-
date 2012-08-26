@@ -25,17 +25,16 @@ when server is running: point your browser to http://localhost:8080
 
 you may also compile examples to standalone executable:
 
-    go build
-
-shall compile all examples to binaries
 
     go build ws.go
+    go build ws_u.go
 
-shall compile only ws.go
 
 on mac/unix you'd execute it as:
 
-  ./ws
+    ./ws
+or
+    ./ws_u
 
-I assume that on windows 'go build ws.go' would create ws.exe
+I assume that on windows 'go build ws.go' would create ws.exe and ws_u.exe
 
