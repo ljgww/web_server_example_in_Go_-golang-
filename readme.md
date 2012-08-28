@@ -42,3 +42,7 @@ or
 
 I assume that on windows 'go build ws.go' would create ws.exe and ws_u.exe
 
+----
+
+Update: I have discovered a fine web component, visit https://github.com/hoisie/web for details. (explore forks too)
+
